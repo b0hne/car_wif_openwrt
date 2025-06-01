@@ -24,7 +24,7 @@ No extra packages and no Internet connection are required.
 # copy script to the router
 scp setup.sh root@192.168.1.1:/root/
 # execute once
-ssh root@192.168.1.1 'chmod +x /root/setup.sh && /root/setup.sh'
+ssh root@192.168.1.1 'chmod +x /root/setup_sim_wifi.sh && /root/setup_sim_wifi.sh'
 # watch syslog  (-x output also echoes on the SSH console)
 ```
 
