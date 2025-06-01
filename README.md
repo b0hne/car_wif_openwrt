@@ -2,9 +2,6 @@
 *Turn an OpenWrt 22.03-snapshot (ramips/mt7620) router into a **Car Wi-Fi** hotspot that
 politely backs off whenever your **Home Wi-Fi** is nearby.*
 
-[![shellcheck](https://img.shields.io/badge/shellcheck-passing-brightgreen?logo=gnubash)](https://www.shellcheck.net/)  
-![OpenWrt 22.03-snapshot](https://img.shields.io/badge/OpenWrt-22.03--snapshot-informational?logo=openwrt)
-
 ---
 
 ## Why?
